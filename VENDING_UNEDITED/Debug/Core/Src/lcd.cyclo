@@ -1,0 +1,8 @@
+../Core/Src/lcd.c:20:6:lcd_write_nibble	1
+../Core/Src/lcd.c:31:6:lcd_send_cmd	3
+../Core/Src/lcd.c:41:6:lcd_send_data	1
+../Core/Src/lcd.c:48:6:lcd_init	1
+../Core/Src/lcd.c:64:6:lcd_write_string	2
+../Core/Src/lcd.c:70:6:lcd_set_cursor	3
+../Core/Src/lcd.c:86:6:lcd_clear	1
+../Core/Src/lcd.c:91:6:lcd_backlight	2
